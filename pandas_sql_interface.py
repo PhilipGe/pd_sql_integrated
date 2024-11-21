@@ -1,6 +1,3 @@
-# from functools import reduce
-# import time
-# from databases import Database
 from databases import Database
 import numpy as np
 import pandas as pd
